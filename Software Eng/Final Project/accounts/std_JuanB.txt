@@ -1,0 +1,2 @@
+NAME=Juan Bermudez,PASSWORD=123
+COURSES=Programming,Database,Calculus

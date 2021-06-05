@@ -1,0 +1,3 @@
+NAME=Hector Lopez,PASSWORD=159
+
+COURSES=Physics,Calculus

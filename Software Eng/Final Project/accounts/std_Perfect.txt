@@ -1,0 +1,2 @@
+NAME=Perfecto,PASSWORD=1010
+COURSES=Programming,Database,Algorithms,Automata,BioInformatics,Biology

@@ -1,0 +1,13 @@
+Course: Data Structures and Algorithm Analysis
+- You will learn algorithm techniques to solve any programming challenge.
+- Prepares you for taking any software interview
+
+Prerequisite:
+-Computer Science II & Lab
+-Computer Science III& Lab
+
+
+Subject: CompSci
+
+Next Courses Available After Completion:
+-Software Engineering I

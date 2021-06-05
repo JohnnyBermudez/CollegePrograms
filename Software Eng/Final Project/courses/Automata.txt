@@ -1,0 +1,14 @@
+Course: Automata, Formal Languages and Computability
+- The study of abstract machines and computational problems
+
+Prerequisites:
+-Computer Science II
+-Discrete Math
+
+Subject Type:CompSci
+
+Next Courses Available After Completion:
+- Senior Project
+- Cyber Security
+- E Commerce
+- Machine Learning

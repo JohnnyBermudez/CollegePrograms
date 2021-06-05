@@ -1,0 +1,13 @@
+Course: Databases
+- Learn how to structure and access data within a computer
+
+Prerequisites:
+-Computer Science II
+
+Subject: Engineering and CompSci
+
+Next Courses Available After Completion:
+-Distributed Databases
+-Automata
+-Computer Networks
+

@@ -1,0 +1,11 @@
+Course: Physics
+- Learn how the world around you works... and Gravity.
+
+Prerequisites:
+-Calculus OR College Algebra
+
+Subject: Math And Engineering
+
+Next Courses Available After Completion:
+- Nuclear Physics
+

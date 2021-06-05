@@ -1,0 +1,11 @@
+Course: Bio Informatics
+- the science of collecting and analyzing complex biological data such as genetic codes.
+
+Prerequisites:
+-Micro Biology
+- Computer Science II 
+
+Subject:Biology
+
+Next Courses Available After Completion:
+-none

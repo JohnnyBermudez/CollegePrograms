@@ -1,0 +1,13 @@
+Course: Calculus
+- The branch of math that deals with integrals and derivatives of functions
+
+Prerequisites:
+-College Algebra
+-Precalculus
+
+Subject: Math and Engineering
+
+Next Courses Available After Completion:
+-Statistics
+-Calculus II
+-Linear Algebra

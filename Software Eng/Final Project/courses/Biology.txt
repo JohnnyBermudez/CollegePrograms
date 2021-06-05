@@ -1,0 +1,10 @@
+Course: Biology
+- Introduction to the studies of living organism
+
+Prerequisites:
+-Life Sciences
+
+Subject: Biology
+
+Next Courses Available After Completion:
+- Micro Biology

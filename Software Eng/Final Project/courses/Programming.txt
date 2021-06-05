@@ -1,0 +1,14 @@
+Course: Computer Science I
+- This course will introduce you to the fundamentals of programming
+
+Prerequisites: 
+-Intro To Computer Science
+-College Algebra
+
+Subject: CompSci
+
+Next Courses Available After Completion:
+- Java
+- Computer Science II
+- Machine Language
+

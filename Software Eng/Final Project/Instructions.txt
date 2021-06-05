@@ -1,0 +1,50 @@
+The following program is called Student Advisor Assistant. This program allows the entry of many text files 
+that stores information locally.
+
+A student can register online, and when they register for a class their information will be stored in a text file.
+
+The program is in the form of a website. HTML, CSS, and PHP, are used to manage a login system, and a file search and update system.
+
+Once a student is registered, a profile is created, and they have the option of registering for classes, and removing classes.
+The classes they register for or choose to delete will be read from a text file, the text file will also be updated as changes
+in the website are made.
+
+Courses can be added by an administrator in the "courses" folder.
+Courses in the folder need to have a signigicant name in order to be read by the program.
+
+A students account is located in the "account" folder.
+An Administrator can open a students account file, and edit a students account
+to add courses. However, the format of the account text files needs to remain the same.
+
+Also, the program will generate a new account for each user upon registring
+Currently, new, registered students do not have displayed any courses they have taken
+Since they are transitioning students. 
+An Administrator needs to manually edit the new student's courses so that they can appear
+in their profile when they log in. Other wise a new student will have no classes to display.
+
+The current administrator account currently has a security issue, but will be fixed. This is 
+because an administrators page will display all of a students information, including passwords
+and usernames.
+
+***Currently the login page does not navigate to the profile page upon successful login
+*** however, the profile page will appear, that is the sign that login was successfful.
+Accounts that are already existing:
+
+----------Students------------
+username:Perfect
+password:1010
+
+username: JuanB
+password:123
+
+username: HectorL
+password:159
+
+-----------Administrator------------
+*** Remember to switch to Login as: faculty
+username:admin
+password:admin123
+
+
+
+
